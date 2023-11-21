@@ -1,3 +1,4 @@
+
 const email = document.getElementById('email');
 email.addEventListener('input', () => validate(email));
 
